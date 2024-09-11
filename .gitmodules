@@ -1,0 +1,3 @@
+[submodule "python-projects-for-beginners"]
+	path = python-projects-for-beginners
+	url = https://github.com/mosh-hamedani/python-projects-for-beginners.git

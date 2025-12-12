@@ -1,3 +1,6 @@
+compile:
+	uv pip compile requirements.in -o requirements.txt
+
 install:
-	pip install --upgrade pip && \
-	pip install -r requirements.txt
+	uv pip install --upgrade pip && \
+	uv pip install -r requirements.txt

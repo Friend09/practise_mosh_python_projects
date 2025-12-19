@@ -130,6 +130,7 @@ dmypy.json
 
 # misc ignore folders
 ref_*/
+ref_mosh_python_projects/
 
 # macOS system files
 .DS_Store

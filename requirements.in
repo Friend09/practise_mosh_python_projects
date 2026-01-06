@@ -1,4 +1,8 @@
+# standard
 ipykernel
 pandas
 matplotlib
 python-dotenv
+
+# 3rd party
+qrcode

@@ -6,3 +6,4 @@ python-dotenv
 
 # 3rd party
 qrcode
+termcolor

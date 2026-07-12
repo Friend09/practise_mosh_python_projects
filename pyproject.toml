@@ -9,3 +9,11 @@ dependencies = [
     "marimo>=0.23.14",
     "pandas>=3.0.3",
 ]
+
+[dependency-groups]
+colors = [
+    "rich>=15.0.0",
+]
+dev = [
+    "pytest>=9.1.1",
+]
